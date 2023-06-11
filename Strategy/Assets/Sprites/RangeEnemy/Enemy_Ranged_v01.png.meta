@@ -1,0 +1,1210 @@
+fileFormatVersion: 2
+guid: 2e38f62b3d272554a8a6ccf815fe1792
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_72
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 3348
+        width: 51
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3496a4183b86ae3439013986400ffb4f
+      internalID: -493560977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_73
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 3364
+        width: 65
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147449810d4e97e43b2caee7343f31da
+      internalID: 160519297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_74
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 3367
+        width: 62
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad47c878995e7b947b084fd112d99c99
+      internalID: -222359047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_75
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 3367
+        width: 62
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ce56ff8f9a5464b9c2d13e5f7e10fe
+      internalID: 1533826061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_76
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 3364
+        width: 64
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335568c9ca246ea41a13f13edcb95e66
+      internalID: -1617025013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_77
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 3366
+        width: 62
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1770d2bd6b42b54ca7500c8c4906e07
+      internalID: -1097885662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_78
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 3361
+        width: 62
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501247c8269a79a41a1b73c02fc57770
+      internalID: 2103496412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_79
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 3372
+        width: 65
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323d86d9c1be0da4e8be37eef27fff33
+      internalID: 1675503602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_80
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 3370
+        width: 64
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe54052bc950bb44bbeeb3ed3c74534
+      internalID: -626299411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_81
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 3378
+        width: 64
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d97ca50c8955204495475977e3b934f
+      internalID: 98120146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_82
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 3378
+        width: 65
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4d929c3a9c8b3429d27cbd1d3b33fa
+      internalID: 735103533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_83
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 3375
+        width: 64
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c04d6265cdfed4999ef614c3a5c8fe
+      internalID: -578484277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_84
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 3375
+        width: 65
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefef50a369e25c448cefa78fb86c2af
+      internalID: -841857516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_85
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 3378
+        width: 63
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523445f4372941e47bf34606eb093844
+      internalID: 1897099911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_86
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 3378
+        width: 65
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d4cc643fb5d074d9709aaa60edfd13
+      internalID: -2005427693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_87
+      rect:
+        serializedVersion: 2
+        x: 3908
+        y: 3378
+        width: 65
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08ea2b79d44fe9419cd5bd36a6246ea
+      internalID: -282128629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_88
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 3376
+        width: 65
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2e76e1490a9cd4fa10286e41cd2a3d
+      internalID: 126641130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_89
+      rect:
+        serializedVersion: 2
+        x: 4376
+        y: 3378
+        width: 95
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61963a963846fb04d97ed84d4b86b969
+      internalID: -503061984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_90
+      rect:
+        serializedVersion: 2
+        x: 4566
+        y: 3373
+        width: 162
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91902476a8680242aba40b90ef3491a
+      internalID: -554718697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_91
+      rect:
+        serializedVersion: 2
+        x: 4830
+        y: 3372
+        width: 154
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125e6a24966098b4da18bdff398c7319
+      internalID: 829354518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_92
+      rect:
+        serializedVersion: 2
+        x: 5114
+        y: 3373
+        width: 126
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2d2ff0737eec64aa8913fb0b0f609f
+      internalID: -1318774678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_93
+      rect:
+        serializedVersion: 2
+        x: 5414
+        y: 3373
+        width: 82
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4faf4842520c94fb34fb64fb086463
+      internalID: 1102141415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_94
+      rect:
+        serializedVersion: 2
+        x: 5698
+        y: 3355
+        width: 53
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92037264818b8fc4aaff4b0593166527
+      internalID: 686053278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_95
+      rect:
+        serializedVersion: 2
+        x: 5956
+        y: 3348
+        width: 52
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8466b75a2136424ead4028ec931dc46
+      internalID: -2125449953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_228
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1303
+        width: 51
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad57d7d070c45d479a14e0ed1a4256f
+      internalID: -1338628995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_229
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1303
+        width: 50
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45ec72b617f0a449bfe3fe2964b1111
+      internalID: -2143722772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_230
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1303
+        width: 51
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4f4329efa8a7940987aa9941032eac
+      internalID: 2091290434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_231
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1303
+        width: 51
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775fd1c3dc76d014ea270fe9704ed350
+      internalID: -1830328921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_232
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1303
+        width: 51
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d798d4711bd9d0643a5fe733f9682c88
+      internalID: -457028624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_233
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1303
+        width: 50
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b900e2b20575b642b8224cfd32d7509
+      internalID: 279498799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_234
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1303
+        width: 50
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defb9a9206dbb3742bf51dca799328e6
+      internalID: -688089940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_235
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1303
+        width: 51
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702e1dfcc361a714a962fdd28fe0edea
+      internalID: -1941997227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_236
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 1303
+        width: 52
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b67aa1462d7d6458ee4fc032899316
+      internalID: 1929996639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_237
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 1303
+        width: 50
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d621a831a3d2249b8d14637df0b997
+      internalID: -1102732085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_238
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 1303
+        width: 52
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45036d0af720b1443a083db385c2b530
+      internalID: 215042164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ranged_v01_239
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 1303
+        width: 52
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc483ad788748d42a6022e651de5bba
+      internalID: 107306978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Enemy_Ranged_v01_0: -603502465
+      Enemy_Ranged_v01_1: 81562164
+      Enemy_Ranged_v01_10: -731545410
+      Enemy_Ranged_v01_100: -1961882330
+      Enemy_Ranged_v01_101: 755784279
+      Enemy_Ranged_v01_102: 1700294805
+      Enemy_Ranged_v01_103: 2133218086
+      Enemy_Ranged_v01_104: 2057342120
+      Enemy_Ranged_v01_105: 989316808
+      Enemy_Ranged_v01_106: 308622652
+      Enemy_Ranged_v01_107: 1582277079
+      Enemy_Ranged_v01_108: -104946893
+      Enemy_Ranged_v01_109: -750542303
+      Enemy_Ranged_v01_11: 1121499996
+      Enemy_Ranged_v01_110: -1071558553
+      Enemy_Ranged_v01_111: 131339835
+      Enemy_Ranged_v01_112: -220794697
+      Enemy_Ranged_v01_113: -1758711843
+      Enemy_Ranged_v01_114: 2033213503
+      Enemy_Ranged_v01_115: -1922360325
+      Enemy_Ranged_v01_116: 1102263414
+      Enemy_Ranged_v01_117: 1590683937
+      Enemy_Ranged_v01_118: 734203781
+      Enemy_Ranged_v01_119: 536607170
+      Enemy_Ranged_v01_12: 997151718
+      Enemy_Ranged_v01_120: 517675667
+      Enemy_Ranged_v01_121: 1530935998
+      Enemy_Ranged_v01_122: 1403979597
+      Enemy_Ranged_v01_123: 661172814
+      Enemy_Ranged_v01_124: 1770455909
+      Enemy_Ranged_v01_125: 1843954815
+      Enemy_Ranged_v01_126: 1425408647
+      Enemy_Ranged_v01_127: 444131565
+      Enemy_Ranged_v01_128: -152778448
+      Enemy_Ranged_v01_129: -1199162465
+      Enemy_Ranged_v01_13: 2081575760
+      Enemy_Ranged_v01_130: 918128523
+      Enemy_Ranged_v01_131: -1223789053
+      Enemy_Ranged_v01_132: 263899885
+      Enemy_Ranged_v01_133: 1704641438
+      Enemy_Ranged_v01_134: -1041727223
+      Enemy_Ranged_v01_135: -1597861546
+      Enemy_Ranged_v01_136: 1528258558
+      Enemy_Ranged_v01_137: 814949690
+      Enemy_Ranged_v01_138: -1444087057
+      Enemy_Ranged_v01_139: 1254040586
+      Enemy_Ranged_v01_14: -850321627
+      Enemy_Ranged_v01_140: 1016740424
+      Enemy_Ranged_v01_141: 212855531
+      Enemy_Ranged_v01_142: 1268937696
+      Enemy_Ranged_v01_143: -913703588
+      Enemy_Ranged_v01_144: -681876730
+      Enemy_Ranged_v01_145: 425942025
+      Enemy_Ranged_v01_146: -1772218360
+      Enemy_Ranged_v01_147: 374835650
+      Enemy_Ranged_v01_148: -366001469
+      Enemy_Ranged_v01_149: -460915555
+      Enemy_Ranged_v01_15: 684180212
+      Enemy_Ranged_v01_150: 1296644576
+      Enemy_Ranged_v01_151: -2052465009
+      Enemy_Ranged_v01_152: 920838787
+      Enemy_Ranged_v01_153: -1185416297
+      Enemy_Ranged_v01_154: -2123901207
+      Enemy_Ranged_v01_155: -1752046962
+      Enemy_Ranged_v01_156: 2067059485
+      Enemy_Ranged_v01_157: 2045259026
+      Enemy_Ranged_v01_158: -1986876610
+      Enemy_Ranged_v01_159: 1339080241
+      Enemy_Ranged_v01_16: -1072083496
+      Enemy_Ranged_v01_160: 1799611167
+      Enemy_Ranged_v01_161: 1030763062
+      Enemy_Ranged_v01_162: 1182900827
+      Enemy_Ranged_v01_163: -1556195960
+      Enemy_Ranged_v01_164: -1871129120
+      Enemy_Ranged_v01_165: -1906557567
+      Enemy_Ranged_v01_166: 1870928448
+      Enemy_Ranged_v01_167: 1250090294
+      Enemy_Ranged_v01_168: 1482069768
+      Enemy_Ranged_v01_169: -1872224472
+      Enemy_Ranged_v01_17: 486633432
+      Enemy_Ranged_v01_170: 712703764
+      Enemy_Ranged_v01_171: 1363042876
+      Enemy_Ranged_v01_172: -679263788
+      Enemy_Ranged_v01_173: 1632281732
+      Enemy_Ranged_v01_174: -607986348
+      Enemy_Ranged_v01_175: -1379666069
+      Enemy_Ranged_v01_176: -1989026205
+      Enemy_Ranged_v01_177: -673249820
+      Enemy_Ranged_v01_178: -958056172
+      Enemy_Ranged_v01_179: -1640218713
+      Enemy_Ranged_v01_18: -1268470210
+      Enemy_Ranged_v01_180: -671416786
+      Enemy_Ranged_v01_181: -932979251
+      Enemy_Ranged_v01_182: -72078148
+      Enemy_Ranged_v01_183: -1787222798
+      Enemy_Ranged_v01_184: 110973666
+      Enemy_Ranged_v01_185: -1372373630
+      Enemy_Ranged_v01_186: -1677459775
+      Enemy_Ranged_v01_187: 447134002
+      Enemy_Ranged_v01_188: -165826993
+      Enemy_Ranged_v01_189: 1869280196
+      Enemy_Ranged_v01_19: 892169333
+      Enemy_Ranged_v01_190: -2000145096
+      Enemy_Ranged_v01_191: -665795609
+      Enemy_Ranged_v01_192: 1345145925
+      Enemy_Ranged_v01_193: 822813060
+      Enemy_Ranged_v01_194: -983410843
+      Enemy_Ranged_v01_195: 91231090
+      Enemy_Ranged_v01_196: -1212563491
+      Enemy_Ranged_v01_197: 1202346682
+      Enemy_Ranged_v01_198: 1573321798
+      Enemy_Ranged_v01_199: 729844257
+      Enemy_Ranged_v01_2: -1330256604
+      Enemy_Ranged_v01_20: -1847990789
+      Enemy_Ranged_v01_200: 1182018913
+      Enemy_Ranged_v01_201: 1830192090
+      Enemy_Ranged_v01_202: 1063343555
+      Enemy_Ranged_v01_203: -838560965
+      Enemy_Ranged_v01_204: 1650425147
+      Enemy_Ranged_v01_205: -676840525
+      Enemy_Ranged_v01_206: 602739692
+      Enemy_Ranged_v01_207: -973464057
+      Enemy_Ranged_v01_208: -1223886380
+      Enemy_Ranged_v01_209: -1053654106
+      Enemy_Ranged_v01_21: 1338576106
+      Enemy_Ranged_v01_210: 1336331542
+      Enemy_Ranged_v01_211: -970948603
+      Enemy_Ranged_v01_212: 590796181
+      Enemy_Ranged_v01_213: -369371929
+      Enemy_Ranged_v01_214: 1364945042
+      Enemy_Ranged_v01_215: -577677562
+      Enemy_Ranged_v01_216: 1220130591
+      Enemy_Ranged_v01_217: 1303514538
+      Enemy_Ranged_v01_218: 1395073375
+      Enemy_Ranged_v01_219: 900132491
+      Enemy_Ranged_v01_22: 140353605
+      Enemy_Ranged_v01_220: 1413330067
+      Enemy_Ranged_v01_221: 108728938
+      Enemy_Ranged_v01_222: -218193132
+      Enemy_Ranged_v01_223: 692752307
+      Enemy_Ranged_v01_224: -1066981432
+      Enemy_Ranged_v01_225: -1015205956
+      Enemy_Ranged_v01_226: -1330683322
+      Enemy_Ranged_v01_227: -889522153
+      Enemy_Ranged_v01_228: -1338628995
+      Enemy_Ranged_v01_229: -2143722772
+      Enemy_Ranged_v01_23: 267481840
+      Enemy_Ranged_v01_230: 2091290434
+      Enemy_Ranged_v01_231: -1830328921
+      Enemy_Ranged_v01_232: -457028624
+      Enemy_Ranged_v01_233: 279498799
+      Enemy_Ranged_v01_234: -688089940
+      Enemy_Ranged_v01_235: -1941997227
+      Enemy_Ranged_v01_236: 1929996639
+      Enemy_Ranged_v01_237: -1102732085
+      Enemy_Ranged_v01_238: 215042164
+      Enemy_Ranged_v01_239: 107306978
+      Enemy_Ranged_v01_24: 1719566330
+      Enemy_Ranged_v01_240: -1503314973
+      Enemy_Ranged_v01_241: -961593898
+      Enemy_Ranged_v01_242: -1330374630
+      Enemy_Ranged_v01_243: 222682384
+      Enemy_Ranged_v01_244: 1167991198
+      Enemy_Ranged_v01_245: 379338157
+      Enemy_Ranged_v01_246: -128908972
+      Enemy_Ranged_v01_247: 1023560317
+      Enemy_Ranged_v01_248: 1582735631
+      Enemy_Ranged_v01_249: -1274361931
+      Enemy_Ranged_v01_25: -1474463328
+      Enemy_Ranged_v01_250: -1858439187
+      Enemy_Ranged_v01_251: 348627684
+      Enemy_Ranged_v01_252: -437646662
+      Enemy_Ranged_v01_253: -573107651
+      Enemy_Ranged_v01_254: -1075644706
+      Enemy_Ranged_v01_255: -535889600
+      Enemy_Ranged_v01_256: 1273410405
+      Enemy_Ranged_v01_257: -1288849272
+      Enemy_Ranged_v01_258: 1090651263
+      Enemy_Ranged_v01_259: -307794645
+      Enemy_Ranged_v01_26: 2120070256
+      Enemy_Ranged_v01_260: 796202489
+      Enemy_Ranged_v01_261: -1964033540
+      Enemy_Ranged_v01_262: 1670884616
+      Enemy_Ranged_v01_263: -1002234198
+      Enemy_Ranged_v01_264: 2123561774
+      Enemy_Ranged_v01_265: 1349671399
+      Enemy_Ranged_v01_266: -877199372
+      Enemy_Ranged_v01_267: 1084107207
+      Enemy_Ranged_v01_268: -267968407
+      Enemy_Ranged_v01_269: -1133935788
+      Enemy_Ranged_v01_27: 1587214500
+      Enemy_Ranged_v01_270: 2116393864
+      Enemy_Ranged_v01_271: -485247192
+      Enemy_Ranged_v01_272: -1300869282
+      Enemy_Ranged_v01_273: -1959885340
+      Enemy_Ranged_v01_274: -1736326488
+      Enemy_Ranged_v01_275: 9118863
+      Enemy_Ranged_v01_276: -477756434
+      Enemy_Ranged_v01_277: 645008396
+      Enemy_Ranged_v01_278: -1223176216
+      Enemy_Ranged_v01_279: 1650049270
+      Enemy_Ranged_v01_28: 1051783880
+      Enemy_Ranged_v01_280: -990415589
+      Enemy_Ranged_v01_281: 545704421
+      Enemy_Ranged_v01_282: 227573917
+      Enemy_Ranged_v01_283: 1264282801
+      Enemy_Ranged_v01_284: -1243366683
+      Enemy_Ranged_v01_285: 1715242714
+      Enemy_Ranged_v01_286: 518883383
+      Enemy_Ranged_v01_287: 605160194
+      Enemy_Ranged_v01_288: 1682440416
+      Enemy_Ranged_v01_289: -529386146
+      Enemy_Ranged_v01_29: -980908807
+      Enemy_Ranged_v01_290: -1127168496
+      Enemy_Ranged_v01_291: -553022224
+      Enemy_Ranged_v01_292: 1660001075
+      Enemy_Ranged_v01_293: 1106817944
+      Enemy_Ranged_v01_294: 514802112
+      Enemy_Ranged_v01_295: 56401664
+      Enemy_Ranged_v01_296: -1146952177
+      Enemy_Ranged_v01_297: 1355889914
+      Enemy_Ranged_v01_298: -854198404
+      Enemy_Ranged_v01_299: 822879939
+      Enemy_Ranged_v01_3: -840452008
+      Enemy_Ranged_v01_30: -1142778713
+      Enemy_Ranged_v01_300: 2122227497
+      Enemy_Ranged_v01_301: -2024957376
+      Enemy_Ranged_v01_302: -1439104441
+      Enemy_Ranged_v01_303: -1263586024
+      Enemy_Ranged_v01_304: 738820159
+      Enemy_Ranged_v01_305: -1535542619
+      Enemy_Ranged_v01_306: -1608822775
+      Enemy_Ranged_v01_307: 800970465
+      Enemy_Ranged_v01_308: 1089694842
+      Enemy_Ranged_v01_309: -1015528871
+      Enemy_Ranged_v01_31: -1667150203
+      Enemy_Ranged_v01_310: 1030461549
+      Enemy_Ranged_v01_311: 48442963
+      Enemy_Ranged_v01_312: 1137240315
+      Enemy_Ranged_v01_313: 2090015509
+      Enemy_Ranged_v01_314: 694922070
+      Enemy_Ranged_v01_315: -365353203
+      Enemy_Ranged_v01_316: 217219951
+      Enemy_Ranged_v01_317: 2128270667
+      Enemy_Ranged_v01_318: 1684193916
+      Enemy_Ranged_v01_32: -1992366698
+      Enemy_Ranged_v01_33: 1186878409
+      Enemy_Ranged_v01_34: -583386227
+      Enemy_Ranged_v01_35: -537767847
+      Enemy_Ranged_v01_36: -1444275245
+      Enemy_Ranged_v01_37: -1458537071
+      Enemy_Ranged_v01_38: 1828417208
+      Enemy_Ranged_v01_39: 1837160905
+      Enemy_Ranged_v01_4: 467671015
+      Enemy_Ranged_v01_40: 655556944
+      Enemy_Ranged_v01_41: -983477333
+      Enemy_Ranged_v01_42: -1178264064
+      Enemy_Ranged_v01_43: 646682542
+      Enemy_Ranged_v01_44: 1978701308
+      Enemy_Ranged_v01_45: 1393120139
+      Enemy_Ranged_v01_46: -277838648
+      Enemy_Ranged_v01_47: -1569432083
+      Enemy_Ranged_v01_48: 270808406
+      Enemy_Ranged_v01_49: -316226963
+      Enemy_Ranged_v01_5: 126925397
+      Enemy_Ranged_v01_50: -1205787073
+      Enemy_Ranged_v01_51: -1224166723
+      Enemy_Ranged_v01_52: 525121600
+      Enemy_Ranged_v01_53: 1856965468
+      Enemy_Ranged_v01_54: 633336366
+      Enemy_Ranged_v01_55: -347103776
+      Enemy_Ranged_v01_56: 634775296
+      Enemy_Ranged_v01_57: -1919647934
+      Enemy_Ranged_v01_58: -1492252649
+      Enemy_Ranged_v01_59: 46472133
+      Enemy_Ranged_v01_6: 1056306925
+      Enemy_Ranged_v01_60: -1899035778
+      Enemy_Ranged_v01_61: -80248495
+      Enemy_Ranged_v01_62: 334863294
+      Enemy_Ranged_v01_63: -502433098
+      Enemy_Ranged_v01_64: -102612096
+      Enemy_Ranged_v01_65: -2079650211
+      Enemy_Ranged_v01_66: -901681954
+      Enemy_Ranged_v01_67: -221612248
+      Enemy_Ranged_v01_68: -748631043
+      Enemy_Ranged_v01_69: 276115696
+      Enemy_Ranged_v01_7: 1920505576
+      Enemy_Ranged_v01_70: -396162148
+      Enemy_Ranged_v01_71: 2057199134
+      Enemy_Ranged_v01_72: -493560977
+      Enemy_Ranged_v01_73: 160519297
+      Enemy_Ranged_v01_74: -222359047
+      Enemy_Ranged_v01_75: 1533826061
+      Enemy_Ranged_v01_76: -1617025013
+      Enemy_Ranged_v01_77: -1097885662
+      Enemy_Ranged_v01_78: 2103496412
+      Enemy_Ranged_v01_79: 1675503602
+      Enemy_Ranged_v01_8: -1628012466
+      Enemy_Ranged_v01_80: -626299411
+      Enemy_Ranged_v01_81: 98120146
+      Enemy_Ranged_v01_82: 735103533
+      Enemy_Ranged_v01_83: -578484277
+      Enemy_Ranged_v01_84: -841857516
+      Enemy_Ranged_v01_85: 1897099911
+      Enemy_Ranged_v01_86: -2005427693
+      Enemy_Ranged_v01_87: -282128629
+      Enemy_Ranged_v01_88: 126641130
+      Enemy_Ranged_v01_89: -503061984
+      Enemy_Ranged_v01_9: 740384787
+      Enemy_Ranged_v01_90: -554718697
+      Enemy_Ranged_v01_91: 829354518
+      Enemy_Ranged_v01_92: -1318774678
+      Enemy_Ranged_v01_93: 1102141415
+      Enemy_Ranged_v01_94: 686053278
+      Enemy_Ranged_v01_95: -2125449953
+      Enemy_Ranged_v01_96: -2113722744
+      Enemy_Ranged_v01_97: 286251531
+      Enemy_Ranged_v01_98: 1418457243
+      Enemy_Ranged_v01_99: -725083870
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
